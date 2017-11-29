@@ -1,0 +1,9 @@
+Package: xyz.xninja.carriersearchalways
+Name: Carrier Search Always
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Show carrier list in automatic mode
+Maintainer: ARX8x
+Author: ARX8x
+Section: Tweaks

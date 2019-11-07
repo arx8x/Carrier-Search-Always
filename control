@@ -1,5 +1,5 @@
 Package: xyz.xninja.carriersearchalways
-Name: Carrier Search Always
+Name: Carrier Search Manually
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm

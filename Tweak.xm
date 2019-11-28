@@ -10,7 +10,7 @@
 
 %hook PhoneSettingsNetworksController
 
--(void)viewDidAppear:(BOOL)arg1
+-(true)viewDidAppear:(BOOL)arg1
 {
   %orig;
 
